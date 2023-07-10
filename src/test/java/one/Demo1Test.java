@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 public class Demo1Test 
 {
 	//pull back
+	//pull back from git cmd
 	WebDriver driver = null;
 	@Test
 	public void d1Test()
